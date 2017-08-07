@@ -1,6 +1,6 @@
-==============================================================================================================
+
                                             BMR Calculator
-==============================================================================================================
+
 
 Deshawn Dana
 dashwen@csu.fullerton.edu
@@ -8,9 +8,9 @@ CPSC 411 Assignment 5
 version 0.8
 Copyright © 2016 Deshawn Dana. All rights reserved.
 
-==============================================================================================================
+
                                         Required files to compile
-==============================================================================================================
+
 
 iso4217.csv
 AppDelegate.h
@@ -26,9 +26,9 @@ info.plist
 Assets.xcassets (folder)
 Base.Iproj (folder)
 
-==============================================================================================================
+
                                          Instructions to compile
-==============================================================================================================
+
 
 You may use Xcode to compile
 1.) copy entire currency_exchange_query folder and currency_exchange_query.xcodeproj to desired directory
@@ -40,22 +40,15 @@ Optional: After build, if keyboard does not display during simulator
     and make sure it is checked
 
 
-==============================================================================================================
-                                               Comments / Bugs / Not completed
-==============================================================================================================
 
--singleton (not completed)
--Asynchronous (Not Completed)
--Favorites with second view (Not Completed)
--Use Iphone 5s layout in xcode to ensure proper display
+                                               Comments
 
-Bugs
+
 -Calculate button multiplies value after clicking button multiple times
 -Does not fetch after first boot, must select from picker view to initiate fetch
 
-==============================================================================================================
                                                 Credits
-==============================================================================================================
+
 
 http://www.tutorialspoint.com/objective_c/
 http://www.stackoverflow.com
